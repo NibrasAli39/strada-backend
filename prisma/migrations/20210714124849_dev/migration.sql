@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "ArtPiece" ALTER COLUMN "likerId" DROP NOT NULL,
+ALTER COLUMN "purchaserId" DROP NOT NULL;
